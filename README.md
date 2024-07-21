@@ -8,3 +8,5 @@ sqash1
 sqash2
 sqash3
 sqash4
+sqash5
+sqash6
