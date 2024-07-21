@@ -12,3 +12,5 @@ sqash5
 sqash6
 sqash7
 sqash8
+sqash9
+sqash10
