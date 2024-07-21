@@ -6,3 +6,4 @@ c2
 
 sqash1
 sqash2
+sqash1
