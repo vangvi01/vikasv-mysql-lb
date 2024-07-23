@@ -18,3 +18,6 @@ sqash11
 sqash12
 merge 1
 merge 2
+sqash 13
+squash 14
+sqasu 15
