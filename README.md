@@ -23,3 +23,4 @@ squash 14
 sqasu 15
 sqush 16
 squash 17
+squash 18
