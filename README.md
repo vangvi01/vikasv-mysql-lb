@@ -16,3 +16,5 @@ sqash9
 sqash10
 sqash11
 sqash12
+merge 1
+merge 2
